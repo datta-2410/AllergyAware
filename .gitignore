@@ -1,0 +1,31 @@
+# -------- Python --------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+
+# -------- Flask --------
+instance/
+*.sqlite3
+
+# -------- Machine Learning --------
+*.pth
+*.h5
+dataset/
+data/
+models/
+
+# -------- React --------
+node_modules/
+build/
+dist/
+
+# -------- OS Files --------
+.DS_Store
+Thumbs.db
+
+# -------- Logs --------
+*.log
